@@ -319,7 +319,7 @@ h1, h2, h3, h4, h5, h6 {
 .cover {padding-top:50px;height:100vh;color: #fff; 
   background-color:rgba(0,0,0,0.5) ;
   background-blend-mode: darken;
-  background-image: url(https://s3.amazonaws.com/arc-wordpress-client-uploads/infobae-wp/wp-content/uploads/2019/03/08204132/Marcha-8M-4.jpg);
+  background-image:url(/images/Marcha.jpg);
   background-size: cover;
   background-position:center ;
 }
